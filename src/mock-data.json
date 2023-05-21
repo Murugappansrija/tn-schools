@@ -1,0 +1,17 @@
+ [
+    {
+      "id": 1,
+      "fullName": "prathap",
+      "batch": "10",
+      "phoneNumber": "450",
+      "email": "porkodi84@gmail.com"
+    },
+   
+    {
+      "id": 2,
+      "fullName": "mohamed ibrahim",
+      "batch": "10",
+      "phoneNumber": "80%",
+      "email":"jakir80@gmail.com"
+    }
+  ]

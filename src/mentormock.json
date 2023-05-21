@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "fullName": "vennila",
+      "batch": "tamil",
+      "phoneNumber": "good",
+      "email": "vennila90@gmail.com"
+    },
+   
+    {
+      "id": 2,
+      "fullName": "sivasubramaniyan",
+      "batch": "mathematics",
+      "phoneNumber": "excellent",
+      "email": "siva85@gmail.com"
+    }
+  ]
